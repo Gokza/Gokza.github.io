@@ -1,1 +1,1 @@
-# Gokza.github.io
+# this is gokz
